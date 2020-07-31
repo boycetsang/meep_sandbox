@@ -10,3 +10,6 @@ Simply execute the following after sourcing the meep conda environment by `sourc
 python meep_sandbox.py
 ```
 
+![Sandbox window](https://github.com/boycetsang/meep_sandbox/blob/master/demo.JPG)
+
+You can then either use the slider or drag the light blur circle to change the simulation.
